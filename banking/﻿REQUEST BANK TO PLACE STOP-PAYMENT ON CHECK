@@ -1,0 +1,26 @@
+﻿REQUEST BANK TO PLACE STOP-PAYMENT ON CHECK
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+GK
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+I would like to request that a “stop-payment” be placed on the following check{s}:
+
+CHECK #	AMOUNT	RECIPIENT		DATE		ACCOUNT #
+[LIST CHECK NUMBER(S), AMOUNT(S), RECIPIENT(S), DATE(S) AND ACCOUNT NUMBER(S), ex.
+12423		$1,203.23	ABC Co.		5/3/98		2132342-23423]
+
+I hereby authorize the service charge to be deducted from my [savings / checking] account, #[CHECKING ACCOUNT NUMBER].
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]
