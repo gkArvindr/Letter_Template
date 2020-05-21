@@ -1,0 +1,38 @@
+Template for the phone interview invitation email
+Subject line: Invitation for a phone interview with
+
+[Company_Name]
+
+Dear [Candidate_Name],
+
+Firstly, I want to thank you again for applying for [Job_title] role with us.
+
+Also, I would like to inform you that, after reviewing your application, we have selected you for the next round, which is a phone interview.
+
+The main purpose of this phone interview is for us to get to know you better, and for you to ask any questions you may have.
+
+Are you available for a short phone call? It will not take longer than [X minutes].
+
+Here are a few options I have available:
+
+[Monday, date, time]
+
+[Tuesday, date, time]
+
+[Wednesday, date, time]
+
+[Thursday, date, time]
+
+[Friday, date, time]
+
+If none of these options work for you, please let me know and I will give my best to adjust.
+
+Please send me a confirmation email with the chosen time as well as your phone number.
+
+I am looking forward to get to know you better,
+
+Kind regards,
+
+[Your name]
+
+[Signature]
