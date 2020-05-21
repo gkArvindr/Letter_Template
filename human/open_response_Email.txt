@@ -1,0 +1,18 @@
+Email template to respond to open applications- job opportunity
+Subject line: Thank you for your interest in [company name]
+
+Dear [candidate name],
+
+Thank you for sending open job application to [company name]! After reviewing your application, cover letter and resume, I realized that your profile could be a very good match for [open position] we have vacant. 
+
+That being said, I would like to ask you to fill our formal job application fro [open position]. 
+
+Here is the [link]!
+
+Please let me know if you have any additional questions. 
+
+I look forward to reviewing your application!
+
+Best regards,
+
+[Your name]
