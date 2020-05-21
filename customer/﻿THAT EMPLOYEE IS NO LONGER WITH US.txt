@@ -13,7 +13,7 @@ Dear [NAME, ex. Arvind GK],
 
 We are in receipt of your letter of [DATE, ex. June 10] addressed to [NAME, ex. Bill Williams].  We regret to inform you that [he / she] is no longer with our firm.  {STATE WHERE EX-EMPLOYEE CAN BE REACHED, IF KNOWN, ex. He may now be reached at XYC Co.:
 
-Bill Williams
+Arvind GK
 XYC Co.
 43211 Second Street
 Toronto, Ontario
