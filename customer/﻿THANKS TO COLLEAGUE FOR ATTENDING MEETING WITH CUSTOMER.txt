@@ -1,0 +1,15 @@
+﻿THANKS TO COLLEAGUE FOR ATTENDING MEETING WITH CUSTOMER
+
+To-		[NAME, ex. Nancy Johnson]
+
+From-		[YOUR NAME]
+
+Date-		[DATE, ex. July 5, 1998]
+
+Subject-	Meeting with [CUSTOMER’S NAME, ex. Joel Young]
+
+
+[FIRST NAME, ex. Nancy], I would like thank you for your help on [DATE, ex. Wednesday] with [CUSTOMER NAME, ex. Joel].  I can’t imagine how the meeting would have gone without your help and input.  [STATE NEXT STEP, ex. Joel will be at our office next Tuesday to have a look at our compressors.  Perhaps you can arrange for a tour of the premises and, specifically, the manufacturing plant?]
+
+Thanks again.
+

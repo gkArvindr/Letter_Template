@@ -1,0 +1,25 @@
+﻿WARRANTY IS UP, EXTENSION OFFERED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+I’m confident that you have been pleased with the performance of your [PRODUCT, ex. Magnaflux compressor] during the past [DURATION, ex. two years] and are looking forward to several more years of efficient use.
+
+However, I would like to remind you that the warranty on your [PRODUCT, ex. compressor] is about to expire.  [REASSURE QUALITY, BUT MENTION NEED FOR MAINTENANCE/REPAIR, ex. Although our compressors are of extremely high quality, with tight tolerances designed to last through several years of use, they may require maintenance to ensure efficient operation.]  For $[AMOUNT, ex. 725], our [DURATION, ex. one year] warranty extension plan can potentially save you the cost of an expensive repair in the future.  [MENTION DETAILS OF WARRANTY, ex. You’ll be happy to hear that this warranty includes both parts and labor, with onsite repair by our service technicians for your convenience.]
+
+I’ve taken the liberty of enclosing our warranty agreement.  I urge you to review and return it before [DATE, ex. June 30], at which time your existing warranty expires and your eligibility for the extension lapses.
+
+Thank you for your business.  Please call me at XXX-XXXX if I can be of any assistance.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

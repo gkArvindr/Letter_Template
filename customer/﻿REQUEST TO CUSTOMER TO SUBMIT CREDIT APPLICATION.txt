@@ -1,0 +1,24 @@
+﻿REQUEST TO CUSTOMER TO SUBMIT CREDIT APPLICATION
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+We are pleased of your interest in our [products / services] and we hope to serve you to the best of our abilities.
+
+In order that we may provide you with reasonable and competitive prices, we ask all our customers to submit a credit application.  We understand that the information we require may be sensitive.  However, rest assured that by requiring the same information from all our customers, we are protecting you from having to pay higher prices for someone else’s bad credit. 
+
+Could you please fill the enclosed application and forward it to us at your earliest convenience so that we may extend to you a 30-day payment term upon approval?
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

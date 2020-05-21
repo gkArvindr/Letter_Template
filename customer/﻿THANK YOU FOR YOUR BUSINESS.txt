@@ -1,0 +1,22 @@
+﻿THANK YOU FOR YOUR BUSINESS
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+We are writing to express our appreciation for [STATE BUSINESS, ex. your order of ten Magnaflux compressors].  [STATE PROGRESS OF ORDER/BUSINESS, ex. We are in the process of filling and shipping your order, which is expected to arrive at your premises on Friday.]
+
+We look forward to doing future business with you, and we will jump at every chance to make your experience with us enjoyable.  Please feel free to call me at XXX-XXXX if I may serve you in any way.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

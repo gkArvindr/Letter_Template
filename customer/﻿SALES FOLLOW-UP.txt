@@ -1,0 +1,23 @@
+﻿SALES FOLLOW-UP
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+I’m writing to thank you for [PRODUCT/SERVICE, ex. procuring our cleaning and disposal services].  It is our pleasure to serve you!
+
+I’m confident you are happy with [BENEFIT(S) OF PRODUCT/SERVICE the cleanliness of your premises] and I hope you keep us in mind for all your future [NEED, ex. cleaning and disposal needs].  I want you to know that you can call me at XXX-XXXX if there is anything I can do for you.
+
+Thanks for your business.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

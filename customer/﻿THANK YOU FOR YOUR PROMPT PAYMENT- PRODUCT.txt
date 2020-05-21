@@ -1,0 +1,22 @@
+﻿THANK YOU FOR YOUR PROMPT PAYMENT- PRODUCT
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+We have just received your payment for [PRODUCT(S), ex. your order of five Magnaflux compressors].
+
+I would like you to know that I appreciate your history of prompt payment.  It is customers like you who enable us, in turn, to offer you competitive prices.  {MENTION WHETHER YOU WILL OFFER BONUS, ex. In appreciation, we would like to offer you a 2% discount for all invoices paid within 15 days of the invoice date.}  We are pleased to have your business!
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

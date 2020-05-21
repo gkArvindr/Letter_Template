@@ -1,0 +1,24 @@
+﻿NOTIFY CUSTOMER THAT ORDER CANNOT BE PROCESSED- DISCONTINUED PRODUCT
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+I would like to thank you for your order of [PRODUCT(S), ex. 4 Magnaflux compressors].  
+
+Unfortunately, however, the [DISCONTINUED PRODUCT, ex. Magnaflux compressor] is no longer available.  [PROPOSED ALTERNATIVE, INCLUDING ITS FEATURES AND PRICE ex. It has been superseded by the new FluxMetric compressor, which features double the capacity of the Magnaflux.  At $1,260, the FluxMetric is well worth the extra $60 in price as it is designed to last longer without regular and costly  maintenance bills.]  {I have taken the liberty of enclosing [ENCLOSURES, ex. a brochure of the new FluxMetric compressor, including schematics and customer testimonials].}
+
+Allow me to apologize for any inconveniences this may have caused you.  I am ready, however, to upgrade your order immediately to the [ALTERNATIVE PRODUCT, ex. FluxMetric] at your request.  You may reach me at XXX-XXXX.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

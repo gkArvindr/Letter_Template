@@ -1,0 +1,24 @@
+﻿NOTICE TO CUSTOMER- UNDERPAYMENT, DEBIT ISSUED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+We have just received your payment of $[AMOUNT, ex. 5,200.24] for [PRODUCT(S) / SERVICE(S), ex. your order of five Magnaflux compressors].  Thank you for your payment.  Our records, however, indicate that the total billing for that invoice (#[INVOICE NUMBER]) is $[AMOUNT, ex. 5,400.24].  Please check your records to ensure that I have not made a mistake.
+
+Unless I hear from you, there is no need to send us a check for the remainder; we will debit your account by $[AMOUNT, ex, 200.00], to be added to your next invoice.
+
+Please call me at XXX-XXXX if I can be of any assistance.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

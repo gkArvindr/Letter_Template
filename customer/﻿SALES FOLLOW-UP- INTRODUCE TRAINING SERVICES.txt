@@ -1,0 +1,25 @@
+﻿SALES FOLLOW-UP- INTRODUCE TRAINING SERVICES
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+I’m writing to thank you for [PRODUCT, ex. purchasing our Knowledge Plus+ Managerial Information System].  I’m confident that you are pleased with [BENEFIT(S) OF PRODUCT/SERVICE the decision-making information you now have at your fingertips].  It is our pleasure to serve you!
+
+Since I’m certain you are anxious to get the most out of [PRODUCT, ex. your new software], I’m sure you will be interested in our training services.  [STATE TYPE OF TRAINING AND PRICE, ex. For $525, our skilled representatives will be able to train your staff on your premises, over a three-day, two-hour-per-day intensive program.  We will ensure that your staff will be able to operate your Knowledge Plus+ package in order to achieve maximum results.  This includes training in database management, custom report generation, forecasting and querying.]
+
+I will be pleased to address any of your questions or concerns; call me at XXX-XXXX if there is anything I can do for you.
+
+Thank you for your business.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

@@ -1,0 +1,19 @@
+﻿BASEBALL TICKETS ENCLOSED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+When I heard that our office had some unused tickets to the ball game on [DATE, ex. Friday], I immediately grabbed them for you (they’re enclosed).  Since I can’t go, I hope you’ll enjoy the game.
+
+Best regards,
+
+
+[YOUR NAME, ex. Jill Jones]

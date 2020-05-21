@@ -1,0 +1,24 @@
+﻿NOTIFY CUSTOMER THAT HE/SHE MISSED MEETING- FIRM TONE
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+You must have forgotten our [DATE & TIME, ex. Wednesday, 2-30 PM] meeting. In the future, I request that you notify me of cancellations in advance.  As a busy person yourself, I’m sure you understand how badly schedules can be disrupted by unannounced cancellations. 
+
+Unfortunately, I believe our meeting would have proven quite favorable to you; [GIVE EXAMPLE OF WHAT CUSTOMER MISSED, ex. I spoke with our lead programmer, who informed me of a way our new order requisition module could save your firm a significant amount of money].
+
+If you are still interested, call me at XXX-XXXX.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

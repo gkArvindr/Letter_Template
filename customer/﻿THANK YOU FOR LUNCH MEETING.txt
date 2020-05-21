@@ -1,0 +1,22 @@
+﻿THANK YOU FOR LUNCH MEETING
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+It was a pleasure to have lunch with you the other day at [LOCATION, ex. Enchante].  I believe we have achieved a lot.  [RECAP CONCLUSION OF DISCUSSION AND/OR STATE WHAT YOU WILL DO AS A RESULT OF MEETING, ex. I certainly agree with you that we must act immediately in order to capture significant market share.  Accordingly, I will contact our production facilities at once to determine whether we can produce a prototype by the end of the month.]  {IF SO, STATE WHAT YOU REQUIRE FROM RECIPIENT, ex. Could you please forward to me a copy of the engineer’s specifications?}
+
+Thanks again.  I look forward to speaking with you soon.
+
+Best regards,
+
+
+[YOUR NAME, ex. Jill Jones]

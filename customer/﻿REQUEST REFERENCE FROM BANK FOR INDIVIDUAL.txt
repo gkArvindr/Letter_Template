@@ -1,0 +1,32 @@
+﻿REQUEST REFERENCE FROM BANK FOR INDIVIDUAL
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Bank Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+Your customer, [NAME, ex. Mr. William Johnson], has identified your bank as a credit reference.  [He/She] has named the following accounts at your branch- [LIST ACCOUNT NUMBERS, ex. 2453-234234 and 4653-645642].
+
+We understand that you are busy; however, may we request the following information so that we may process your customer’s request as soon as possible?
+
+[LIST INFORMATION REQUIRED, ex.
+o Duration of Mr. Smith’s accounts at your branch
+o Average monthly account balances
+o Insufficient fund or overdraft history]
+o Any other information you deem relevant
+
+Feel free to contact me at XXX-XXXX should you require any additional information.
+
+We thank you for your help and we look forward to a reply at your earliest convenience.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

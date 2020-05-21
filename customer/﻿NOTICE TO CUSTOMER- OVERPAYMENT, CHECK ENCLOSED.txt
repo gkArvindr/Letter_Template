@@ -1,0 +1,24 @@
+﻿NOTICE TO CUSTOMER- OVERPAYMENT, CHECK ENCLOSED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+We have just received your payment of $[AMOUNT, ex. 5,200.24] for [PRODUCT(S) / SERVICE(S), ex. your order of five Magnaflux compressors].  Our records indicate that you have overpaid an amount of $[AMOUNT, ex. $200.24].
+
+Ordinarily, we issue a credit to be used against your next invoice, but I know you would prefer a check.  Your satisfaction is our business.  Enclosed, please find a check in the amount of your overpayment.
+
+Please call me at XXX-XXXX if I can be of any assistance.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

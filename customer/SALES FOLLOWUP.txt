@@ -1,0 +1,25 @@
+﻿SALES FOLLOW-UP- INTRODUCE SIMILAR PRODUCTS/SERVICES
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+I’m writing to thank you for [PRODUCT/SERVICE, ex. purchasing our Knowledge Plus+ Managerial Information System].  I’m confident that you are pleased with [BENEFIT(S) OF PRODUCT/SERVICE the decision-making information you now have at your fingertips].  It is our pleasure to serve you!
+
+Did you know [INTRODUCE RELATED PRODUCT(S)/SERVICE(S), ex. that we also design and install corporate virtual intranet systems]?  [MENTION HOW PRODUCT(S)/SERVICE(S) CAN BENEFIT CUSTOMER OR COMPLEMENT EXISTING PRODUCT(S)/SERVICE(S), ex. By hooking your business to the internet, our systems allow you to reach a potentially limitless field of new customers.  May I mention that it will also interface with your existing Knowledge Plus+ software?]  Of course, you can expect the same level of quality and service that you have experienced with our [PURCHASED PRODUCT(S)/SERVICE(S), ex. managerial information system].
+
+{I’ve taken the liberty of enclosing some literature that may be of interest to you, including [SUPPORTING DOCUMENTS, ex. an article on the profitability of intranet systems and customer testimonials.]}  I will be pleased to address any of your questions or concerns; call me at XXX-XXXX if there is anything I can do for you.
+
+Thank you for your business.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

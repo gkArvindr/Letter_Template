@@ -1,0 +1,20 @@
+﻿NOTIFY CUSTOMER THAT HE/SHE MISSED MEETING- RECURRING CANCELLATIONS
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+You must have forgotten our [DATE & TIME, ex. Wednesday, 2-30 PM] meeting.  Although I understand how busy your schedule is, you have missed [NUMBER, ex. a total of three] meetings.  Surely you can see that this is disagreeable and upsetting to me.  Although I have tried to work around your schedules in the past, I am afraid I can no longer afford the risk of another unannounced cancellation.  Regrettably, I will no longer be able to see you in the event of another missed appointment.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

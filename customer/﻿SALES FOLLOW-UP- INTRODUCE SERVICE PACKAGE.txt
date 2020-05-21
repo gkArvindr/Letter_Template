@@ -1,0 +1,29 @@
+﻿SALES FOLLOW-UP- INTRODUCE SERVICE PACKAGE
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+I’m writing to thank you for [PRODUCT, ex. purchasing our Magnaflux compressor].  I’m confident that you are pleased with [BENEFIT(S) OF PRODUCT/SERVICE the resulting reduction in your manufacturing costs].  It is our pleasure to serve you!
+
+Allow me to mention a package which I’m confident will interest you.
+
+[STATE NEED FOR SERVICE, ex. To ensure that your new compressor operates at optimum efficiency, giving you maximum performance, your compressor requires regular service.  Studies have shown such maintenance to be cheaper than the cost of a major overhaul required if the unit is not periodically serviced.]  This is why I would like to introduce to you [SERVICE PACKAGE, ex. our Elite Service Package.]
+
+[STATE DETAILS OF PACKAGE, ex. For $1,250 per year, we offer a semi-annual package with our service technicians arriving at your premises twice a year to perform maintenance onsite, where it is most convenient. We believe this necessary to ensure a long life of efficient compressor use.]
+
+I will be pleased to address any questions or concerns you may have; call me at XXX-XXXX if there is anything I can do for you.
+
+Thank you for your business.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

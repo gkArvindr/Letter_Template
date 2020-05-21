@@ -1,0 +1,23 @@
+﻿NOTIFY CLIENT THAT HE/SHE MISSED APPOINTMENT- CANCELLATION FEE
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME,AND ADDRESS, ex.
+John Smith
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+You did not show up for your appointment on [DATE & TIME, ex. Wednesday, 2-30 PM].
+
+Regretfully, we must charge a cancellation fee of [AMOUNT OF CANCELLATION FEE, ex. $15]. We enclose an invoice in this regard.
+
+Kindly contact our office in order that we can reschedule the appointment.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

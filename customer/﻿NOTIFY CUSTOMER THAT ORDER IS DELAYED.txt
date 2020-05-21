@@ -1,0 +1,22 @@
+﻿NOTIFY CUSTOMER THAT ORDER IS DELAYED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+I would like to thank you for your order of [PRODUCT(S), ex. 4 Magnaflux compressors].  Due to [BRIEFLY STATE REASON, ex. a backlog of orders for this product], however, I regret that your delivery will be delayed.  Although I will do my best to expedite your order, we expect shipment to be made on [DATE, ex. Wednesday of next week].
+
+Allow me to apologize for any inconveniences this may have caused you.  We look forward to serving you again.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

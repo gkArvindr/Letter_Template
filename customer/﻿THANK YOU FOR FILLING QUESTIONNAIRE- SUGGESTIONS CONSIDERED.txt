@@ -1,0 +1,21 @@
+﻿THANK YOU FOR FILLING QUESTIONNAIRE- SUGGESTIONS CONSIDERED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+Thank you for filling and returning our questionnaire.  I wish to take this opportunity to tell you that I have brought your comments to the attention of [PERSON/POSITION, ex. our vice president of sales].  [STATE ACTION TO BE TAKEN, We have immediately called a meeting to discuss the possibility altering our terms of sale, as you suggested.]
+
+Again, I thank you for your response and I will keep you posted on the results.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

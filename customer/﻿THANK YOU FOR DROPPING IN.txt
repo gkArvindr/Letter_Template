@@ -1,0 +1,22 @@
+﻿THANK YOU FOR DROPPING IN
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+I would just like to thank you for dropping in [DATE, ex. on Tuesday].  It is always a pleasure to see you.  [FOLLOW UP ON CONVERSATION, ex. I have taken a look at your order, and have determined that a slight error on the part of our suppliers is to blame.  We will be shipping the compressors to you today and you should receive it by the end of this week.]
+
+I look forward to seeing you again.
+
+Best regards,
+
+
+[YOUR NAME, ex. Jill Jones]

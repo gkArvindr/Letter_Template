@@ -1,0 +1,22 @@
+﻿CONFIRMATION OF MEETING WITH CUSTOMER
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+It was a pleasure to speak with you the other day.  I am looking forward to meeting with you on [DATE, ex. June 15] to discuss [SUBJECT, ex. whether outsourcing manufacturing capacity at your firm will be will be profitable].  To confirm, we will be meeting [LOCATION, ex. in your office, 5555 First Street, #123], at [TIME, ex. 3-00 PM].  Please contact me if I am mistaken.
+
+Again, I thank you for your time and effort.  I am certain that our meeting will prove productive to our goals.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

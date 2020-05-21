@@ -1,0 +1,22 @@
+﻿REQUEST FOR COLLEAGUE TO ATTEND MEETING WITH CUSTOMER
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+I am looking forward to our meeting on [DATE, ex. June 5, 1998] at [TIME, ex. 3-00 PM].  May I request that my colleague, [NAME, ex. Bill Williams], attend?  [NAME, ex. Bill] is our [STATE POSITION, ex. engineer].  [He / She] will be able to [IDENTIFY HOW COLLEAGUE CAN BENEFIT THE GOAL OF THE MEETING, ex. explain how our Magnaflux compressor can interface with your existing equipment].  Accordingly, I am sure that [his / her] attendance will prove beneficial.
+
+Please contact me if there are any problems.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

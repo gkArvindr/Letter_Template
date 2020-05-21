@@ -1,0 +1,22 @@
+﻿REQUEST TO RESCHEDULE MEETING
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+I’m afraid I have to request to reschedule our meeting of [DATE, ex. June 15].  [STATE REASON, ex. Unfortunately, I will have to travel to Boston that week.]  May I suggest [SUGGEST A DATE AND TIME, ex. June 19 at 3-00 PM]?  Otherwise, I am willing to work around your schedule.  {STATE ADVANTAGE, IF ANY, TO RESCHEDULE, ex. I will use the extra time to finalize the schematics you requested.]
+
+I’m sorry for any inconveniences this has caused you.  I await your confirmation.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

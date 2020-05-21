@@ -1,0 +1,22 @@
+﻿THANK YOU FOR YOUR SUGGESTION
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+Thank you for suggesting [STATE SUGGESTION, ex. layout improvements to our invoices to better enumerate the products billed.]  [STATE WHAT ACTION YOU WILL OR HAVE TAKEN, ex. I have personally spoken with our computer specialist who has determined that the changes require only minor modifications to our existing software. You can expect the changes to be implemented by the end of this month.]
+
+Since we aim at serving you to the best of our abilities, we are always interested in your suggestions.  Thanks again.
+
+Best regards,
+
+
+[YOUR NAME, ex. Jill Jones]

@@ -1,0 +1,23 @@
+﻿REQUEST CUSTOMER TO FILL QUESTIONNAIRE
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+I am interested in your opinions and suggestions.
+
+Although I understand that your schedule is busy, I am hoping that you will take the little time required to fill out the enclosed questionnaire.  As you know, [FIRM NAME, ex. PowerAccount Software] is always looking for ways to [GOAL OF QUESTIONNAIRE, ex. improve our accounting software] and ultimately keep you happy.
+
+{MENTION INCENTIVE, IF ANY, ex. Since I understand that your time is valuable, I will immediately issue you a 5% discount on all future releases of our AccountSoft package as soon as we receive your questionnaire.} I have also enclosed a self-addressed, stamped envelope to return your questionnaire to us.  I want you to know that your suggestions and opinions are valuable to us.  After all, we hope that you will continue to look to us for all your future [NEED(S), ex. accounting software] needs.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

@@ -1,0 +1,26 @@
+﻿THANK YOU FOR YOUR ORDER
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+We would like to thank you for your order!
+
+[STATE PROGRESS OF ORDER, ex. Your custom Magnaflux compressor has been prepared and will be shipped on Friday.]  We would like you to know that your satisfaction is our goal.  If you have any problems, or if there is anything I can help you with, please do not hesitate to call me at XXX-XXXX.
+
+{TOUT OTHER PRODUCT/SERVICE AND MENTION HOW IT CAN BENEFIT RECIPIENT, ex. Allow me to introduce a service which may be of considerable interest to you. Our MagnaMaintenance’s elite maintenance program guarantees repair of all malfunctioning compressor parts within two business days.  This will enable you to resume production and increase efficiency in relatively no time.  Our technicians will immediately diagnose and repair your problems on-site upon notification.  It will be my pleasure to give you more information on this program}
+
+Thanks again.  Please call me at XXX-XXXX if there is anything I can do for you.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

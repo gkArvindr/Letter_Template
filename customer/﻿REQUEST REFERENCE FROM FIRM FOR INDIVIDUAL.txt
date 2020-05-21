@@ -1,0 +1,31 @@
+﻿REQUEST REFERENCE FROM FIRM FOR INDIVIDUAL
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+Your [customer/associate, etc.], [NAME, ex. Mr. William Johnson], has identified your firm as a credit reference.  We understand that you are a busy firm; however, may we request the following information so that we may process your [customer/associate]’s request as soon as possible?
+
+[LIST INFORMATION REQUIRED, ex.
+o Duration of Mr. Smith’s credit history with your form
+o Average monthly billings to Mr. Smith
+o Promptness of payment
+o Incidents of delinquency]
+o Any other information you deem relevant
+
+Feel free to contact me at XXX-XXXX should you require any additional information.
+
+We thank you for your help and we look forward to a reply at your earliest convenience.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

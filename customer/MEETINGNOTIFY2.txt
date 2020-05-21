@@ -1,0 +1,24 @@
+﻿NOTIFY CUSTOMER THAT HE/SHE MISSED MEETING- MODERATE TONE, REQUEST TO RESCHEDULE
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+I’m sorry your were not able to make it to our [DATE & TIME, ex. Wednesday, 2-30 PM] meeting. Although I do understand that it is difficult to maintain your busy schedule, in the future, I would greatly appreciate you to notify me of cancellations in advance.
+
+Unfortunately, I believe our meeting would have proven quite favorable to you; [GIVE EXAMPLE OF WHAT CUSTOMER MISSED, ex. I spoke with our lead programmer, who informed me of a way our new order requisition module could save your firm a significant amount of money].
+
+If you are still interested, call me at XXX-XXXX. I will be happy to schedule another meeting.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

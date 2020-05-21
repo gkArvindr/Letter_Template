@@ -1,0 +1,22 @@
+﻿DIFFERENCE IN POSTAGE CREDITED TO YOU
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+By mistake, we shipped your order (#[ORDER NUMBER]) [SHIPMENT TYPE, ex. Overnight] instead of [SHIPMENT TYPE, ex. Express] because we thought time was of key consideration.  Since this is our mistake, [we have credited the difference to your account / we have enclosed a check in the amount of the difference].
+
+Please do not hesitate to call me at XXX-XXXX if there is something I can do for you.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

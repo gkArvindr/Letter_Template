@@ -1,0 +1,22 @@
+﻿THANK YOU FOR VISITING ME AT HOSPITAL
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+It was indeed a pleasant surprise to see you at [HOSPITAL, ex. New York General Hospital] [DATE, ex. last week] when I was ill.  I would just like to thank you for taking the time to come and visit.  [MENTION RECOVERY, ex. I have now recovered from the operation; the doctor says I will fully recover in two to three weeks.]
+
+I truly appreciate your consideration.
+
+Best regards,
+
+
+[YOUR NAME, ex. Jill Jones]

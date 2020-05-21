@@ -1,0 +1,22 @@
+﻿NOTICE TO CUSTOMER- REQUIRE CERTIFIED CHECK OR CASH ON NEXT ORDER
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+John Smith
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. John Smith],
+
+We thank you for your payment of $[AMOUNT, ex. 5,000.23] for [PRODUCT(S) / SERVICES(S), ex. your order for five Magnaflux compressors]. As you know, we greatly appreciate your business.  Although your original check was returned due to insufficient funds, we understand your position; cash flow is indeed tight these days for all firms.
+
+We wish to offer you the best service possible.  For this reason, we will require a cash or certified checks payment on future order{s}.  I’m certain you will find this reasonable, as our suppliers and creditors also hold us to strict terms.  [MENTION LENGTH OF REQUIRED PRE-PAYMENT OR REVIEW PROCESS, ex. Since you have been a good customer, we will be glad to review your account in the next six months and offer you better credit terms.]
+
+Sincerely,
+
+
+[YOUR NAME, ex. Jill Jones]

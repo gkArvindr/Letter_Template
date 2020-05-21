@@ -1,0 +1,13 @@
+﻿REQUEST TO COLLEAGUE TO ATTEND MEETING WITH CUSTOMER
+
+To-		[NAME, ex. Nancy Johnson]
+
+From-		[YOUR NAME]
+
+Date-		[DATE, ex. July 5, 1998]
+
+Subject-	Meeting with potential customer
+
+
+I will be meeting with a potential customer, [STATE CUSTOMER NAME, ex. Mr. Joel Young], on [DATE, ex. June 16].  I would like very much for you to be present, as your expertise in [STATE SUBJECT, ex. our Magnaflux compressor’s design and operation] will be invaluable to presenting our [product / service].  [STATE CUSTOMER NAME, ex. Joel] is anxious meet with us and will be interested in what you have to say.  Furthermore, he will likely ask us questions which you will be able to answer much better than myself.  Please contact me at your earliest convenience if you are not able to attend.
+
