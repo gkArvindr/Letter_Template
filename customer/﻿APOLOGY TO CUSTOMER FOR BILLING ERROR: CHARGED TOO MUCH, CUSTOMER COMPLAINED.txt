@@ -1,0 +1,31 @@
+﻿APOLOGY TO CUSTOMER FOR BILLING ERROR: CHARGED TOO MUCH, CUSTOMER COMPLAINED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+Thank you for your [STATE FORM OF COMMUNICATION, ex. telephone call yesterday], which prompted me to check our records.  You are absolutely correct.
+
+In error, we have over-billed you by $[AMOUNT] on invoice #[ INVOICE NUMBER].  [STATE NATURE OF ERROR, ex. Instead of charging you for the four units you ordered and were shipped to you, we charged you for five.]  Please accept my apologies.
+ 
+I have immediately nullified the incorrect invoice ([INVOICE NUMBER, ex. #A423F]) and issued you a new one as follows:
+
+[LIST NEW INVOICE DETAILS, ex.
+	4 Magnaflux compressors @ $5,000 		$20,000
+	Tax @ 5%					   1,000
+	Total						$21,000]
+
+Let me assure you that I will personally inspect our invoices to you in the future to ensure that there will be no further errors.  {STATE INCENTIVE, IN ANY, ex. Since I feel embarrassed over the matter, I will offer you a 5% discount on your next order.}  Feel free to contact me at XXX-XXXX if there are any other issues you wish me to address.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

@@ -1,0 +1,26 @@
+﻿CUSTOMER CREDIT REFUSAL: REQUIRE ADDITIONAL REFERENCES
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+We thank you for your credit application and your interest in our [products/services].  We look forward to doing business with you.
+
+As you understand, to maintain reasonable and competitive prices, we are unable to approve many credit applications.  Although we cannot offer you credit terms at this moment, we may be able to approve your application if you provide us with [X] additional references.  {OFFER INCENTIVE, ex. Meanwhile, may I extend to you a discount of [Y]% for cash orders?}
+
+I will immediately review your account when you provide additional references and gladly offer you credit when we establish a favorable history of doing business together.
+
+It will be a pleasure to do business with you.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

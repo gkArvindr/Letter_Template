@@ -1,0 +1,20 @@
+﻿LATE PAYMENT, FIRM TONE: LETTER #4 (SERVICE)
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+As we have not received payment or heard from you within the past five business days, I have no alternative but to commence legal actions regarding your unpaid account in the amount of $[AMOUNT].  All future correspondence between us will be made through our lawyers’ office, [LAW OFFICE, ex. Johnson, McKinney & Howell, Barristers and Solicitors].
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

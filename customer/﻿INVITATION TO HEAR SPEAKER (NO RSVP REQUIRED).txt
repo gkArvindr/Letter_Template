@@ -1,0 +1,32 @@
+﻿INVITATION TO HEAR SPEAKER (NO RSVP REQUIRED)
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+You are Cordially Invited to Hear our Distinguished Speaker:
+
+[NAME OF SPEAKER]
+
+Discuss [TOPIC OF SPEECH, ex. "The Role of Ethics in Business”]
+
+Sponsored by the [NAME OF ORGANIZATION SPONSORING SPEECH]
+
+
+Date:  [DATE, ex. Friday September 29, 1998]
+Time:  [TIME, ex. 8:00 p.m.]
+Place:  [ADDRESS, ex. Civic Library]
+
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

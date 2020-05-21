@@ -1,0 +1,24 @@
+﻿LATE PAYMENT, FIRM TONE: LETTER #4 (PRODUCT)
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+As we have not received payment or heard from you within the past five business days, I have no alternative but to repossess the following items we sold to you on [DATE, ex. February 8, 1998]: [PRODUCT LIST, ex. one ElectroMag television and one Aqualite television stand].  This unfortunate measure is a result of $[AMOUNT] being unpaid for a period of over four months.
+
+Our representatives will arrive at your [premises / home] on [DATE, ex. June 15, 1998] at [TIME, ex. 6:00 PM] to reclaim the items mentioned above.  Please contact us to arrange an alternative date and time if this is impossible.
+
+If we do not hear from you and are unable to reclaim the items on that date, we will immediately initiate legal actions.  In such unfortunate case, all future correspondence will be made through our lawyers’ office, [LAW OFFICE, ex. Johnson, McKinney & Howell, Barristers and Solicitors].  We sincerely urge you to take actions to prevent a situation which will prove costly for both of us in terms of frustration and time.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

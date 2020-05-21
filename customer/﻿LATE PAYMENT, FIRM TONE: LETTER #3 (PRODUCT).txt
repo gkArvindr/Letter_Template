@@ -1,0 +1,22 @@
+﻿LATE PAYMENT, FIRM TONE: LETTER #3 (PRODUCT)
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+Unfortunately, we have not received payment or heard from you regarding your unpaid account balance of $[AMOUNT].  As three months have past since the due date, we are forced to take actions to repossess the products we sold to you on [DATE, ex. March 11, 1998], namely: [PRODUCT LIST, ex. one ElectroMag television and one Aqualite television stand].
+
+If we do not receive payment or hear from you within the next five business days, we will contact you to arrange an appointment for repossession of the above item{s}.  We urge you to take every effort to avoid these proceedings as they will undoubtedly be mutually-disagreeable.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

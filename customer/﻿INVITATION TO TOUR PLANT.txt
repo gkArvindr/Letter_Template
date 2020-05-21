@@ -1,0 +1,22 @@
+﻿INVITATION TO TOUR PLANT
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+Allow me the pleasure of inviting you to come and tour our plant on [DATE AND TIME, ex. Wednesday, June 20 at 2:00 PM].  I’m certain you will be interested in seeing [PROCESS AND/OR ANY SPECIAL MATTER, ex. how our Magnaflux compressors are manufactured to meet the custom specifications of your orders].  {TOUT NEW PRODUCT, IF APPLICABLE, ex. Furthermore, I’m anxious to show you the equipment used to manufacture our new compressor, model 5AB3.}
+
+I am sure you will be pleased with the tour and I am anxious to show you around.  [STATE REQUESTED NATURE OF RESPONSE, ex. Please tell me whether you are able to come by calling me at XXX-XXXX.]
+
+Best regards, 
+
+
+[YOUR NAME, ex. Arvind GK]

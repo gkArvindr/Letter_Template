@@ -1,0 +1,26 @@
+﻿CUSTOMER CREDIT REFUSAL
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+We thank you for your credit application and your interest in our [products/services].  We look forward to doing business with you.
+
+As you understand, to maintain reasonable and competitive prices, we are unable to approve many credit applications.  Although we cannot offer you credit terms at this moment, we are certain that, as we do business together and a favorable history is established, we will be able to accept credit orders from you in the future.  {OFFER INCENTIVE, ex. Meanwhile, may I extend to you a discount of [X]% for cash orders?}
+
+{Since you are a busy person, I will automatically review your account in [X] months and gladly offer you credit when we are able to do so.}
+
+It will be a pleasure to do business with you.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

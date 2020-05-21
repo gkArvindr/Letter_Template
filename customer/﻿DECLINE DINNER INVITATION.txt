@@ -1,0 +1,21 @@
+﻿DECLINE DINNER INVITATION
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+It was really nice of you to invite [us / me] to dinner on [DATE, ex. Friday].  I appreciate your hospitality.  That is why I regret that [I / we] have previously made plans for that date.  {Perhaps we can rearrange for sometime [TIME WINDOW, ex. next week]}.
+
+Thanks again for the invitation.  [I / we] look forward to seeing you soon.
+
+Best regards,
+
+
+[YOUR NAME, ex. Arvind GK]

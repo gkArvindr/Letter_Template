@@ -1,0 +1,22 @@
+﻿APOLOGY FOR LATE DELIVERY
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+It has come to my attention that your order of [DATE, ex. May 27] for [LIST PRODUCTS, ex. 5 Magnaflux compressors] was delivered late on [DATE, ex. June 27].  Please accept my apologies and let met assure you that our company otherwise has a favorable record of delivering by the date we specify.
+
+I hope the delay did not cause you much inconvenience and we look forward to serving you again.  Feel free to call me at XXX-XXXX if you have any concerns you wish me to address.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

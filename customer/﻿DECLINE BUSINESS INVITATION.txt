@@ -1,0 +1,22 @@
+﻿DECLINE BUSINESS INVITATION
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+It is an honor to be invited to [INVITATION, ex. attend a tour of your new premises].  Indeed, I would love to come.  However, [REASON FOR REFUSAL, ex. I am attending a compressor technology conference in New York on the 14th.]  I am sorry, therefore, that I cannot attend.
+
+[STATE WHEN YOU NEXT EXPECT TO SEE THE RECIPIENT, ex. I look forward, nonetheless, to our lunch meeting on the 17th.]
+
+Best regards, 
+
+
+[YOUR NAME, ex. Arvind GK]

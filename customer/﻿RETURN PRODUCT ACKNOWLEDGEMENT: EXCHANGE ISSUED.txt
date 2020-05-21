@@ -1,0 +1,22 @@
+﻿RETURN PRODUCT ACKNOWLEDGEMENT: EXCHANGE ISSUED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+I am happy to exchange your [OLD PRODUCT, ex. Magnaflux compressor, model 452B] (invoice #[INVOICE NUMBER]) with [NEW PRODUCT, ex. model 542X].  [STATE HOW DIFFERENCE IN PRICE WILL BE HANDLED, ex. Since the 542X is priced $987.62 less than the 452B, I have credited your account in that amount.]
+
+Since your satisfaction is our goal, do not hesitate to call me at XXX-XXXX if I can be of any further assisstance.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

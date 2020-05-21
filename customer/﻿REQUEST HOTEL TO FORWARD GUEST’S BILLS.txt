@@ -1,0 +1,34 @@
+﻿REQUEST HOTEL TO FORWARD GUEST’S BILLS
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+We have a request to ask of you.
+
+As a guest of our firm, [NAME, ex. Joe Johnson] will be staying at your establishment [DURATION, during the weekend of June 13 to 15].  We kindly request that you forward all charges for his stay to us at:
+
+[ADDRESS, ex.
+Attention: Bill Williams
+PowerAccount Industries
+Accounting Department
+4312 Third Street
+Anycity, Anystate  85245]
+
+We have authorized a credit limit of $[AMOUNT] for such charges.  If the charges exceed this amount, please call me at XXX-XXXX for pre-approval of any additional charges.
+
+Allow me to thank you for your special attention in this matter.  I am certain [NAME, ex. Mr. Johnson]’s stay at your establishment will be a pleasant and enjoyable one.
+
+Feel free to call me if I can be of any assistance.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

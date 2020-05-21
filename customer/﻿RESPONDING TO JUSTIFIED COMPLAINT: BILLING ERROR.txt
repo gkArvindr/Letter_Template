@@ -1,0 +1,27 @@
+﻿RESPONDING TO JUSTIFIED COMPLAINT: BILLING ERROR
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+Thank you for [STATE NATURE OF CONTACT, ex. your letter of June 10, 1998].   You are absolutely correct; please allow me to apologize for issuing you an incorrect invoice.  I will immediately nullify that invoice (#[INVOICE NUMBER]) and issue you a correct one, as follows:
+
+[LIST NEW INVOICE DETAILS, ex.
+	5 Magnaflux compressors @ $4,000 		$20,000
+	Tax @ 5%					   1,000
+	Total						$21,000]
+
+Let me assure you that I will personally inspect our invoices to you in the future to ensure that there will be no further errors.  Feel free to contact me at XXX-XXXX if there are any other issues you wish me to address.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

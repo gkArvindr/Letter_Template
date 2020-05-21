@@ -1,0 +1,22 @@
+﻿NOTICE TO GUARANTOR: PAYMENT DEMANDED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+Regretfully, unfortunate circumstances have caused us to write this letter to you.
+
+We are the holder of your guaranty of [NAME, ex. Joe Johnson]’s debt to us in the amount of $[AMOUNT]. Enclosed, please find a copy of your guaranty.  Since payment on said debt is in default, we must demand that you, as guarantor of said debt, fully pay the outstanding debt due in the amount of $[AMOUNT].
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

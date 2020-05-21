@@ -1,0 +1,22 @@
+﻿APPROVAL OF REQUEST TO INCREASE CREDIT LIMIT
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+We are happy to inform you that your request to increase your credit limit has been approved.  Accordingly, your new credit limit is $[AMOUNT].  Enclosed, please find a detailed copy of our credit terms.  This document explains in detail how your account will be billed each month.
+
+We are certain that these terms will better facilitate doing business together.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

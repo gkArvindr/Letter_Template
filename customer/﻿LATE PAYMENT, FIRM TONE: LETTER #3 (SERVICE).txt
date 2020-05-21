@@ -1,0 +1,22 @@
+﻿LATE PAYMENT, FIRM TONE: LETTER #3 (SERVICE)
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+Unfortunately, we have not received payment or heard from you regarding your unpaid account balance of $[AMOUNT], which was due on [DATE, ex, March 11, 1998].  As three months have past since the due date, we will be forced to take legal actions if we do not receive payment within the next five business days.
+
+[NAME, ex. Mr. Smith], we sincerely hope that we may resolve this issue and avoid taking legal actions which may ultimately cost both of us an amount in frustration and time far greater than that which is involved here.  
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

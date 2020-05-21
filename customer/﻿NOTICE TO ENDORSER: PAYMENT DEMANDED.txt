@@ -1,0 +1,23 @@
+﻿NOTICE TO ENDORSER: PAYMENT DEMANDED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+Regretfully, unfortunate circumstances have caused us to write this letter to you.
+
+We are the holder of a [check / note] to which you are an endorser; a copy of this [check / note] is enclosed.  Since payment on this [check / note] is in default, we must demand that you, as endorser thereto, fully pay the outstanding debt due in the amount of $[AMOUNT].
+
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

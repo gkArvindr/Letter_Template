@@ -1,0 +1,20 @@
+﻿CONGRATULATIONS ON NEW CLIENT
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+I have just heard that you have landed the [NEW CUSTOMER, ex. Albert Industries] account.  Allow me to congratulate you!  I am certain that this was the result of great work and diligence on your part and  I am certain a prosperous and long business relationship will ensue.
+
+Best regards,
+
+
+[YOUR NAME, ex. Arvind GK]

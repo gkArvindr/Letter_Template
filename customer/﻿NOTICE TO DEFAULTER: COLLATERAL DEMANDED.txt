@@ -1,0 +1,27 @@
+﻿NOTICE TO DEFAULTER: COLLATERAL DEMANDED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+Regretfully, unfortunate circumstances have caused us to write this letter to you.
+
+We are writing to inform you that you are in default under our security agreement of [DATE, ex. January 5, 1998] for the following reason{s}:
+
+[LIST REASON(S), ex.
+Failure to pay second installment of $12,000 per clause 4(b)]
+
+As provided in our security agreement, we hereby request and demand that you surrender possession of the collateral listed therein to us immediately.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

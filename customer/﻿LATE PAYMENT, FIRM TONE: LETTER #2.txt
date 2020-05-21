@@ -1,0 +1,22 @@
+﻿LATE PAYMENT, FIRM TONE: LETTER #2
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+I am writing this letter to inform you that we have still not received your payment of $[AMOUNT], which was due on [DATE, ex. May 5, 1998].  Unfortunately, we are forced to impose a [X]% fee for late payment as per our credit policies.
+
+To avoid additional charges, we encourage you to forward payment as soon as possible.  If this is not possible, please contact me so that we may discuss an alternative payment plan.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

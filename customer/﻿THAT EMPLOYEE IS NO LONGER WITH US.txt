@@ -1,0 +1,27 @@
+﻿THAT EMPLOYEE IS NO LONGER WITH US
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+We are in receipt of your letter of [DATE, ex. June 10] addressed to [NAME, ex. Bill Williams].  We regret to inform you that [he / she] is no longer with our firm.  {STATE WHERE EX-EMPLOYEE CAN BE REACHED, IF KNOWN, ex. He may now be reached at XYC Co.:
+
+Bill Williams
+XYC Co.
+43211 Second Street
+Toronto, Ontario
+L3T 7N2]
+
+We regret any inconvenience this may have caused you.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

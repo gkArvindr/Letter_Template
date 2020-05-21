@@ -1,0 +1,22 @@
+﻿APOLOGY FOR MISSING APPOINTMENT WITH CUSTOMER: COLLEAGUES ABLE TO ATTEND
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+I am deeply embarrassed for missing our meeting on [DATE, ex. June 10]; please accept my apologies.  As you understand, I was unable to attend because [STATE REASON, ex. my flight was delayed five hours due to unfavorable weather in San Francisco].  I am pleased, however, that my colleagues were able to present our proposal to you.  I have spoken with them, and rest assured that I am fully up-to-date as to the discussion and concerns raised.  As I understand, [STATE CONCLUSION OF MEETING AND ENUMERATE YOUR RESPONSIBILITIES IN LIGHT THEREOF, ex. you would like detailed schematics of our Magnaflux compressor.  Accordingly, allow me to arrange for my engineers to forward this to you immediately.]
+
+[STATE WHEN YOU WILL NEXT GET IN TOUCH, ex. I will be getting in touch with you by the end of this week to discuss any other concerns you may have.  Also, I would also like to meet with you regarding the possible use of our Magnaflux compressor in your other manufacturing sites; how is June 20?]
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

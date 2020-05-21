@@ -1,0 +1,22 @@
+﻿CONGRATULATIONS ON ARTICLE
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+I very much enjoyed reading your article, [TITLE, ex. “The Application of Statistical Techniques in Manufacturing Management”], in [PUBLICATIONS, ex. Management Weekly].  [MENTION A POINT ON WHICH YOU AGREE WITH AUTHOR, ex. I indeed agree with you that X-bar charting techniques are key in determining when a manufacturing process is malfunctioning.]
+
+Allow me this opportunity to congratulate you on this publication. It is an honor to know a person whose work has been recognized this respectable [magazine / newspaper / publication, etc.].
+
+Best regards,
+
+
+[YOUR NAME, ex. Arvind GK]

@@ -1,0 +1,24 @@
+﻿NOTIFY CUSTOMER THAT CREDIT LIMIT HAS BEEN EXCEEDED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+As you know, we are happy to accommodate you with credit terms to better facilitate doing business together.
+
+Unfortunately, our records indicate that your $[CREDIT LIMIT] credit limit has been exceeded.  Since we know you to be a valued and conscientious customer, however, your purchase (P.O. #[PURCHASE ORDER]) was approved nonetheless.  I urge to you check your records to determine whether our records are incorrect.
+
+If you determine that our records are correct, I request that you forward to us payment in the amount of $[DIFFERENCE], to bring your account up to date.  I apologize for any inconvenience this may have caused.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

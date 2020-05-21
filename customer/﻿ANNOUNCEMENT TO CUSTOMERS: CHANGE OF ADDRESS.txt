@@ -1,0 +1,27 @@
+﻿ANNOUNCEMENT TO CUSTOMERS: CHANGE OF ADDRESS
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+As you may know, [FIRM, ex. ABC Co.] has moved to better serve you.  Our new address is:
+
+[STATE NEW ADDRESS, ex.
+4321 Second Street
+Suite 765
+Anycity, Anystate, 85465]
+
+Please be so kind as to forward all correspondence to this address.  It will be a pleasure to serve you from our new premises.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

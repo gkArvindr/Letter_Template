@@ -1,0 +1,26 @@
+﻿RESPONSE TO REQUEST ABOUT CREDIT REFUSAL
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+We thank you for your interest in our [products/services] and regret that we were unable to extend credit to you at the moment.  In response to your letter of [DATE, ex. June 10], I have investigated your credit application.  Our records indicate that your application was not approved due to the following reasons:
+
+[LIST REASONS, ex.
+o your bank account balances were insufficient for the credit limit requested
+o your bank accounts at XYZ Bank have not been active for a sufficient time to form a reliable credit history]
+
+{MENTION WHETHER ADDITIONAL REFERENCES MAY RESULT IN APPROVAL, ex. Although we cannot offer you credit terms at this moment, we may be able to approve your application if you provide us with [X] additional references.}  {OFFER AN INCENTIVE TO PURCHASE, ex. Meanwhile, may I extend to you a discount of [Y]% for cash orders?}  I give you my personal guarantee that you will be pleased with our [products/services].
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

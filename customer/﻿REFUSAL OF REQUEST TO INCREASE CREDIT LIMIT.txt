@@ -1,0 +1,24 @@
+﻿REFUSAL OF REQUEST TO INCREASE CREDIT LIMIT
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+As you know, we appreciate your business and hope you will continue to look to us for all your future [NEED, ex. plumbing] needs. Thank you for your application to extend your credit limit.
+
+Unfortunately, due to the tight nature of the cash flows of our business, we are unable to offer credit to many customers.  Keeping our accounts tight enables us maintain competitive prices.  Although we are unable to extend your credit limit at this moment, we are certain that, as we do more business together on favorable terms, we will be able to increase your limit in the future.
+
+{Since you are a busy person, I will automatically review your account in [X] months and gladly extend your credit limit when we are able to do so.}
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

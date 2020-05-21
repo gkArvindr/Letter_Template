@@ -1,0 +1,25 @@
+﻿FROM HEALTHCARE PROFESSIONAL TO PATIENT STRESSING NEED FOR FOLLOW-UP TREATMENT
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME,AND ADDRESS, ex.
+Arvind GK
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+We have tried unsuccessfully to contact you on a number of occasions in an attempt to have you return to complete the treatment, which I began on [NATURE OF TREATMENT, ex. your teeth].
+
+[BRIEFLY DESCRIBE REASON FOR FOLLOW-UP, ex. Since you had a high decay rate in your mouth, I placed many temporary fillings to halt the spread of the decay. As I indicated to you these fillings are temporary fillings which must be treated with crowns or permanent fillings that will last longer].
+
+Please contact my office to make an appointment to complete your treatment as noted above. However, if you no longer wish to complete your treatment with me, please let my office know so that I can arrange to forward your records to the appropriate dentist. There will be a small duplicating charge for this.
+
+I look forward to hearing from you.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

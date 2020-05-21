@@ -1,0 +1,24 @@
+﻿INVITATION TO SEMINAR
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+I would like to invite you to a seminar that I’m confident will interest you.
+
+The [NAME OF SEMINAR, ex. 3D Technologies Seminar] held at [PLACE, ex. the Toronto SkyDome] on [DATE, ex. June 13] will [DESCRIBE TOPIC AND FEATURES OF SEMINAR, ex. feature lectures by several key programmers and designers in the field of 3D modeling, with topics including trilinear filtering, anti-aliasing and mipmapping].
+
+I am enclosing [X] tickets for you.  I hope that you decide to attend and I am looking forward to seeing you there.
+
+Best regards, 
+
+
+[YOUR NAME, ex. Arvind GK]

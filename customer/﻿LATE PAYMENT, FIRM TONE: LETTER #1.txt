@@ -1,0 +1,20 @@
+﻿LATE PAYMENT, FIRM TONE: LETTER #1
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+Our records indicate that your account is unpaid in the amount of $[AMOUNT].  As payment was due on [DATE, ex. June 5, 1998], we urge you to consult your records and forward payment as soon as possible.  If your records indicate otherwise, please inform us of the discrepancy so that we may update your account accordingly.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

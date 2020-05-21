@@ -1,0 +1,22 @@
+﻿CANNOT PROCESS ORDER: YOUR CREDIT CARD TRANSACTION WAS DECLINED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+Thank you for your order of [DATE, ex. June 10] for [LIST PRODUCT(S), ex. two PowerAccount software packages].
+
+Unfortunately, we are unable to process your order because the transaction on your credit card was declined.  [LIST OTHER ACCEPTED FORMS OF PAYMENT, ex. In addition to credit cards, we do accept cash, checks or money orders.]  Please contact me at XXX-XXXX to arrange for payment, and I will process your order immediately.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

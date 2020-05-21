@@ -1,0 +1,22 @@
+﻿APOLOGY FOR ERROR ON OUR STATEMENT
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+I am writing to request that you discard our statement of [DATE, June 1, 1998] as we have made a mistake.  [STATE NATURE OF ERROR, ex. Namely, that statement fails to reflect your payment of $12,232.23 on May 15].
+
+Enclosed, please find a corrected statement, showing a new balance of $[AMOUNT].  Please accept my apologies for the error and any inconveniences it may have caused.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

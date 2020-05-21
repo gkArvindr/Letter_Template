@@ -1,0 +1,22 @@
+﻿LATE PAYMENT, MODERATE TONE: LETTER #1 (PRODUCT)
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex. 
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+Thank you for your recent order.
+
+Our records indicate that, as of [DATE, ex. June 11], we have not received payment for your purchase of [LIST PRODUCT(S) PURCHASED, ex. a dining room table] on [DATE, ex. May 11].  Please consult your records to verify that we have not made a mistake.  If payment has already been sent, disregard this note and accept our thanks.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

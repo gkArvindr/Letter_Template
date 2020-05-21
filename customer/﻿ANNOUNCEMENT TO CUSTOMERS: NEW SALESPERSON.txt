@@ -1,0 +1,22 @@
+﻿ANNOUNCEMENT TO CUSTOMERS: NEW SALESPERSON
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+It is my pleasure to inform you of a new addition to our sales staff.  [“TOUT” NEW EMPLOYEE, ex. William Holmes brings with him five years of experience in the computer industry; he has extensive knowledge in small-business intranet systems and I am certain you will be pleased with him.]  [STATE HOW CUSTOMER WILL INTERACT WITH NEW EMPLOYEE, ex.  William will be pleased to service your account and serve you to the best of his abilities.]
+
+William can be reached directly at XXX-XXXX.  [He/She] is looking forward to hearing from you.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

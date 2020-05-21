@@ -1,0 +1,22 @@
+﻿RETURN PRODUCT ACKNOWLEDGEMENT: DAMAGED GOODS, CREDIT ISSUED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+I understand that your [PRODUCT, ex. Magnaflux compressor] (invoice #[INVOICE NUMBER]) was delivered in an unacceptable condition.  I will immediately issue a credit to you in the amount of $[AMOUNT], to be applied against your next bill.
+
+I am ready to ship to you a replacement immediately and at your request.  {STATE INCENTIVE, ex. Since I am embarrassed by this matter, I will discount the replacement order by 5%}  You can reach me at XXX-XXXX.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

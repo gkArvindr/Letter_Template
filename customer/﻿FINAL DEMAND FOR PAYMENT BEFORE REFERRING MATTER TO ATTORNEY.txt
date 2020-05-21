@@ -1,0 +1,24 @@
+﻿FINAL DEMAND FOR PAYMENT BEFORE REFERRING MATTER TO ATTORNEY
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+You are currently indebted to us in the amount of $[AMOUNT] for [BRIEF DESCRIPTION OF PRODUCTS OR SERVICES, ex. Accounting Services], which amount is overdue and remains unpaid despite repeated requests for payment by us.  Copies of the relevant invoice(s) are enclosed.
+
+Unless payment of the above amount is received by us in full within ten (10) days of the date of this letter, we will instruct our attorney to institute legal proceedings against you to recover the above amount, together with interest and legal expenses.
+
+Kindly govern yourself accordingly.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

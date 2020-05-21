@@ -1,0 +1,18 @@
+﻿INVITATION TO ATTEND LECTURE: RSVP REQUIRED
+
+You are cordially invited to attend the following Lecture Sponsored by [NAME OF SPONSOR]:
+
+
+Date:		[DATE OF LECTURE]
+
+Speaker:	[NAME OF SPEAKER]
+
+Subject:	[SUBJECT OF LECTURE]
+
+Place:		[ADDRESS OF LECTURE]
+
+Time:		[TIME OF LECTURE]
+
+Refreshments will be served
+
+RSVP to [NAME OF PERSON TO RESPOND TO, ex. Arvind GK] at [TELEPHONE NO. AND EMAIL ADDRESS OF PERSON TO RESPOND TO] by [DATE BY WHICH RESPONSE REQUIRED ]

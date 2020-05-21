@@ -1,0 +1,22 @@
+﻿CONGRATULATIONS ON PUBLISHED QUOTE
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+I have just finished reading [STATE SOURCE, ex. the “The Art of Manufacturing,” article in the New York Daily Newspaper.  I was delighted to see that you were quoted regarding [SUBJECT, ex. the implementation of total quality management and its effect on the manufacturing process].  I consider it an honor to know a person who has been recognized and quoted by this respectable publication.
+
+Again, congratulations on being quoted!
+
+Best regards,
+
+
+[YOUR NAME, ex. Arvind GK]

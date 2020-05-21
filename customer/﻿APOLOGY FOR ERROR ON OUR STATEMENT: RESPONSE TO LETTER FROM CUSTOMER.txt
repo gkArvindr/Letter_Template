@@ -1,0 +1,24 @@
+﻿APOLOGY FOR ERROR ON OUR STATEMENT: RESPONSE TO LETTER FROM CUSTOMER
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+Thank you for your letter of [DATE, ex. June 10]; you are absolutely correct and we owe you an explanation for our error.
+
+[GIVE EXPLANATION, ex. Indeed, your payment was received in a timely manner.  However, our data entry personnel made an error when keying the date of receipt.]  [STATE WHAT WILL HAPPEN TO ACCOUNT AND STATE NEW BALANCE, ex. Your account has been credited $52.20, leaving a balance of $1,023.43 due.]
+
+Please accept my apologies.  We will take every effort to ensure that such error does not recur.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

@@ -1,0 +1,20 @@
+﻿RETURNED CHECK, LETTER #1
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+We thank you for your business.  Enclosed, please find your check (#[CHECK NUMBER]), in the amount of $[AMOUNT].  Unfortunately, your bank was unable to process this check due to insufficient funds.  As I am certain that this due to a small bank oversight, please contact me at XXX-XXXX to tell me how to proceed.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

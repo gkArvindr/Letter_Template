@@ -1,0 +1,24 @@
+﻿ANNOUNCEMENT TO CUSTOMERS: NEW PRODUCT
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+I am writing this letter to inform you of a new product which I believe will interest you.
+
+We have just introduced a new [TYPE OF PRODUCT, ex. compressor], the [MODEL, ex. Excellor II].  [TOUT NEW PRODUCT AND MENTION HOW IT MAY APPEAL TO THE CUSTOMER, ex. As your new manufacturing premises has begun to operate at higher capacity, this new model is well suited to your facilities.  With a flow capacity 175 % of the Excellor I model, switching to the Excellor II will enable you to increase volume by roughly 25%.]
+
+[STATE HOW CUSTOMER CAN LEARN MORE ABOUT THE PRODUCT, ex. I have taken the liberty of enclosing [STATE ENCLOSURES, ex. pictures and price lists for the Excellor II and I will be pleased to visit your premises to give you a demonstration.]  Call me at XXX-XXXX if I may be of any service to you.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

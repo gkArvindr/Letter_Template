@@ -1,0 +1,26 @@
+﻿RETURN PRODUCT ACKNOWLEDGEMENT: CHECK ENCLOSED, RETURN FEE APPLIED
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+If you are not satisfied, we have not done our job properly.  I’m sorry that you are not pleased with [STATE PRODUCT(S) our Magnaflux compressor] (invoice #[INVOICE NUMBER]) and I will immediately process your return in the amount of $[AMOUNT].  This figure includes a [X]% [restocking / return etc.] fee to cover the costs we incur to restock and repackage the product, and to maintain our competitive prices.
+
+Ordinarily, we issue a credit to be used against your next invoice, but I know you would prefer a check.  Your satisfaction is our business.  Enclosed, please find a check in the amount of your return.
+
+{ADDRESS THE REASON FOR THE RETURN AND TOUT ANOTHER PRODUCT, IF APPLICABLE, ex. I understand that operating temperature is a key concern for you.  May I take this opportunity, Mr. Smith, to suggest our R3B model?  This model will interface with your existing machinery and operate at a far lower temperature.  I will be pleased to discuss the R3B’s features with you at your request.}
+
+Please call me at XXX-XXXX if I can serve you in any way.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

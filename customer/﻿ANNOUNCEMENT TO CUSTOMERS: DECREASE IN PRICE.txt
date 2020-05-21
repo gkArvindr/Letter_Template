@@ -1,0 +1,22 @@
+﻿ANNOUNCEMENT TO CUSTOMERS: DECREASE IN PRICE
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+It is my pleasure to inform you of a price decrease.
+
+Effective [DATE, ex. immediately], [STATE PRICE REDUCTION, ex. supplier economies have enabled us to reduce the price of the Excellor II model by 15%, to $24,000.]  Of course, you can expect the same quality and service you have come to expect from us.  We look forward to continued business together in the future.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

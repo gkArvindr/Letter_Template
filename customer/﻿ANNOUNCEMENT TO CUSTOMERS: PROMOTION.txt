@@ -1,0 +1,22 @@
+﻿ANNOUNCEMENT TO CUSTOMERS: PROMOTION
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+I am writing to you with some information I believe will interest you.  [STATE PROMOTION, ex. To promote our Magnaflux compressors, we will be offering a 20% discount during June 15 to 20.]  I thought you would be pleased to have advanced notice of this promotion.
+
+If I may be of any assistance, do not hesitate to call me at XXX-XXXX.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]
