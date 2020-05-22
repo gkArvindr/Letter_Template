@@ -1,0 +1,21 @@
+﻿TERMINATING EMPLOYEE DUE TO BAD BEHAVIOR
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME AND ADDRESS, ex.
+Arvind GK
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+[STATE CONTEXT AND NATURE OF BAD PERFORMANCE, CITING ALL WARNINGS GIVEN, ex. As you know, customer relations is key to the survival of our business.  It thus alarms me when I receive several complaints from key customers which involve impoliteness and rudeness on your part.  You will recall my letter of June 1 and our meeting last week in which I informed you that this type of behavior is unacceptable and urged you to changed your behavior.  Unfortunately, however, I have continued to receive such complaints.]
+
+I am forced, therefore, to terminate your employment as of [DATE, ex. July 30, 1998].  [STATE ADDITIONAL TERMS OF TERMINATION, ex. Your company medical insurance plan will also be terminated at that time.]  I regret that matters could not have been redressed in a more amicable manner.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

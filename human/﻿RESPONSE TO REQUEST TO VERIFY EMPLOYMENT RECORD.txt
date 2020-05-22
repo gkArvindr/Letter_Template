@@ -1,0 +1,22 @@
+﻿RESPONSE TO REQUEST TO VERIFY EMPLOYMENT RECORD
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+It is my pleasure to accommodate your request to verify [NAME, ex. Mr. James Johnson]’s employment at [FIRM NAME, ex. PowerAccount Limited] between [DATE, ex. December, 1996] and [DATE, ex. July, 1998].  Our records do indeed indicate this to be correct.
+
+Feel free to contact me if you require additional information.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

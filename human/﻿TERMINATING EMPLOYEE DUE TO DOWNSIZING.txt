@@ -1,0 +1,23 @@
+﻿TERMINATING EMPLOYEE DUE TO DOWNSIZING
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME AND ADDRESS, ex.
+Arvind GK
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+As we discussed on [DATE, ex. Tuesday], [REASON FOR DOWNSIZE, ex. increased competition in the accounting software industry has eaten our profits and caused us to eliminate several positions at PowerAccount Limited.]  Unfortunately, we were forced to eliminate your position.
+
+[STATE TERMS OF TERMINATION, ex. Accordingly, your employment will be terminated on July 15.  Your company medical insurance plan will also be terminated at that time and severance pay will be in the amount of $8,000.]
+
+{STATE WILLINGNESS TO GIVE LETTER OF REFERENCE, ex. I will be happy to provide you with a letter of reference if you so request.}
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

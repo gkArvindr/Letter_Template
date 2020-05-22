@@ -1,0 +1,21 @@
+﻿TERMINATING EMPLOYEE DUE TO BAD PERFORMANCE
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME AND ADDRESS, ex.
+Arvind GK
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+I regret that [STATE GOAL NOT MET, ex. the cost overruns at your division have reached unacceptable levels].  As I mentioned in my memorandums of [DATE, ex. April 5] and [DATE, ex. May 10], and at our meeting of [DATE, ex. May 20], we procured your services with the mutual expectation of [GOAL, ex. your reducing costs at our Western Division plant].
+
+I am forced, therefore, to terminate your employment as of [DATE, ex. July 30, 1998].  [STATE ADDITIONAL TERMS OF TERMINATION, ex. Your company medical insurance plan will also be terminated at that time.]  I regret that matters could not have been redressed in a more amicable manner.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

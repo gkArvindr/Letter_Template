@@ -1,0 +1,25 @@
+﻿POST-MEETING SUMMARY
+
+To:		[IDENTIFY PERSONS/GROUP, ex. Arvind GK, Joel Johnson & Bill Williams]
+
+From:		[YOUR NAME]
+
+Date:		[DATE, ex. July 5, 1998]
+
+Subject:	[MEETING, ex. July 13 Meeting Recap]
+
+
+I’m sure you will agree that our meeting on [DATE, ex. Wednesday] went well.  I was pleased with our results.  If I’m not mistaken, we have agreed on the following:
+
+[LIST RESULTS OF MEETING, ex.
+o The 431A line is under-performing due to lack of marketing
+o Accounts receivable and payable are being mismanaged
+o The 431B line will not be able to be salvaged profitably]
+
+{We have also agreed to take the following actions:
+
+[LIST ACTIONS TO BE TAKEN, ex.
+o Meet on July 14 to discuss a new marketing plan for the 431A line
+o Attempt to lengthen supplier terms
+o Increase late payment fees
+o Drop the 431B line] }

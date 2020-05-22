@@ -1,0 +1,22 @@
+﻿REQUEST COMPANY FOR REFERENCE ON POTENTIAL EMPLOYEE
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+We are considering [NAME, ex. James Johnson] for the position of [POSITION, ex. Sales Manager] at [FIRM NAME, ex. PowerAccount Limited].  As [he/she] has identified you as a reference, I would be delighted if you could provide us with your professional opinion as to [his/her] strengths and weaknesses.  {STATE OTHER REQUESTED INFORMATION, ex. We are interested in his managerial skills, his abilities to work in teams, and any other information you deem relevant.}
+
+I thank you in advance and look forward to your reply.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

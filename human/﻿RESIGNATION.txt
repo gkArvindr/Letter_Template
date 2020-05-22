@@ -1,0 +1,22 @@
+﻿RESIGNATION
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+Please accept my resignation from [FIRM, ex. XYZ Inc.], to be effective on [DATE, ex. July 11, 1998].  {STATE NEW EMPLOYMENT, IF ANY, ex. I have recently accepted an offer from ABC Co. in Tucson, Arizona.  I believe the position I have been offered there is better in alignment with my career goals.}
+
+I would like to take this opportunity to mention that my employment here has been thoroughly gratifying and rewarding.  I wish the firm success in the future and I am sincerely proud to have had the opportunity to be with [FIRM, ex. XYZ Inc.] for [DURATION, ex. two years].
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

@@ -1,0 +1,12 @@
+﻿MEETING RESCHEDULED
+
+To:		[IDENTIFY PERSON/GROUP, ex. Arvind GK, Joel Johnson & Bill Williams]
+
+From:		[YOUR NAME]
+
+Date:		[DATE, ex. July 5, 1998]
+
+Subject:	[MEETING, ex. Meeting on July 13, 2:00 PM]
+
+
+In light of scheduling conflicts, I have rescheduled our meeting to [DATE AND TIME, ex. Friday at 2:00 PM] at [PLACE, ex. boardroom 5].  I hope this accommodates everyone.  If not, please contact me at your earliest convenience.

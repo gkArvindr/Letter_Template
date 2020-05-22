@@ -1,0 +1,47 @@
+﻿REQUEST TO APPLY FOR DIFFERENT POSITION:
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+We are in receipt of your resume and are pleased of your interest in our firm and in the [STATE POSITION ORIGINAL POSITION, ex. Vice President of Sales] position.  Your credentials are indeed impressive.  We believe, nonetheless, that the merits of your resume are better suited to the position of [STATE SUGGESTED POSITION, ex. Sales Executive].  This position includes the following duties:
+
+[LIST DUTIES, ex.
+o Management of sales staff of 45
+o Development and implementation of marketing plans
+o Development of sales budgets
+o Reporting to Vice President, etc.]
+
+The required skills and prerequisites are as follows:
+
+[LIST SKILLS, ex.
+o Master of Business Administration
+o Five years experience in the computer industry
+o Strong interpersonal skills
+o Ability to work in teams
+o Proven leadership
+o Well-developed English skills etc.]
+
+As I am sure you can see, your strengths, specifically your [STATE SPECIFIC STRENGTH/PREREQUISITE/ABILITY, ex. five year experience with ABC Co.], suit this position well.  May I mention that the position also includes the following benefits?
+
+[LIST BENEFITS, ex.
+o Company expense account
+o Health insurance
+o Company pension plan
+o Stock options
+o Potential for promotion, etc.] {OPTIONAL: List expected salary or salary range}
+
+If you would not like your resume to be considered for this position, please contact us at your earliest convenience.   Otherwise, feel free to forward to us any new documentation which outlines how your skills match those listed above.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

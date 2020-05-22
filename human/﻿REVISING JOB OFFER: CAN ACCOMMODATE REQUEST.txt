@@ -1,0 +1,31 @@
+﻿REVISING JOB OFFER: CAN ACCOMMODATE REQUEST
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME AND ADDRESS, ex.
+Arvind GK
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+It was a pleasure to speak with you on [DATE, ex. Tuesday] regarding our job offer.  {ALTERNATIVELY, I thank you for your letter of [DATE, ex. June 5] regarding our job offer.}
+
+I am happy to inform you that we are able to accommodate your request to [REQUEST, ex. increase your base salary to $42,000].  Allow me to confirm the terms of our revised offer:
+
+[STATE NEW TERMS OF OFFER, ex.
+o One-time signing bonus of $5,000
+o Base salary of $42,000 per year
+o Yearly discretional bonuses tied to Northern Division’s net sales
+o Three weeks of vacation per year
+o Ten sick days per year
+o Starting day of Monday, June 23, 1998]
+
+I will be pleased to hold this offer for you for the next [X] days.  Please contact me before then so that we can confirm your acceptance.  Welcome to [STATE FIRM NAME, ex. ABC Co.]!
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

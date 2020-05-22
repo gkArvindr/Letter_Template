@@ -1,0 +1,23 @@
+﻿SICK DAY ABUSE
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME AND ADDRESS, ex.
+Arvind GK
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+It is reasonable to expect our employees to fall ill occasionally and be unable to arrive at work.  It is for this reason we extend [X] sick day leaves per year to each of our employees.  Unfortunately, you have missed work for a total of [Y] days this year: [LIST DATES, ex. January 2, 12, 13, February 2, 3, 4, and March 1, 2, and 3].
+
+This excessive use of sick leave days blemishes you history of good performance.  Accordingly, additional sick leave this year will be unpaid.  
+
+If there exists a situation or underlying problem which we must discuss, I urge you to bring it to my attention so we can act accordingly.  Otherwise, please contact me as soon as possible so that we may discuss the situation.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

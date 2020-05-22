@@ -1,0 +1,22 @@
+﻿POLITELY REJECTING APPLICATION FOR EMPLOYMENT BEFORE INTERVIEW
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+We acknowledge receipt of your letter dated [DATE OF LETTER, ex. September 30, 1998] in application for the position of [NAME OF POSITION BEING OFFERED, ex. Controller] with our firm. We were certainly impressed with your credentials and gave consideration to your application, however we cannot, at this time, offer you an interview.
+
+We thank you for your interest in our company and sincerely wish you the best of luck in your future endeavors.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

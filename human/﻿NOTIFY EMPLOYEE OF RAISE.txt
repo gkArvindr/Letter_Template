@@ -1,0 +1,21 @@
+﻿NOTIFY EMPLOYEE OF RAISE
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME & ADDRESS, ex.
+Arvind GK
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+It is my pleasure to inform you that your salary will be raised by [AMOUNT, ex. 5%] to $[AMOUNT, ex. 35,000].  [STATE REASON(S), This raise reflects your outstanding performance in the past two years.]  Congratulations!
+
+We are happy to have you with us.  Please call me if there is anything I can do for you.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

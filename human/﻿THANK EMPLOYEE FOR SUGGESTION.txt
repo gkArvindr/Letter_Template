@@ -1,0 +1,16 @@
+﻿THANK EMPLOYEE FOR SUGGESTION
+
+To:		[NAME, ex. Arvind GK]
+
+From:		[YOUR NAME]
+
+Date:		[DATE, ex. July 5, 1998]
+
+Subject:	[SUBJECT OF SUGGESTION, ex. Order processing]
+
+
+Thank you for your suggestion [SUGGESTION, ex. to decrease order processing time by eliminating the redundancy of the paperwork involved].  It is precisely these type of suggestions that we value greatly.
+
+[STATE WHAT WILL OR HAS BEEN DONE, ex. I have spoken with our sales manager, Doug, who agrees that the time it will save the salespersons will be significant.  He has some concerns, however, regarding a possible increase in shipping errors.  I told him that I was certain you have considered this.  Let’s set up a meeting together to discuss this in more detail.  How about tomorrow at 2:00 PM?]
+
+Thanks again.

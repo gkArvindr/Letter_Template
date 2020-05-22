@@ -1,0 +1,22 @@
+﻿REQUEST COMPANY TO VERIFY EMPLOYMENT RECORD
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME, COMPANY AND ADDRESS, ex.
+Arvind GK
+XYZ Inc.
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+We are considering [NAME, ex. James Johnson] (Social Security #[SSN]) for the position of [POSITION, ex. Sales Manager] at [FIRM NAME, ex. PowerAccount Limited].  We would like to request verification that he was employed by your firm between [DATE, ex. December, 1996] and [DATE, ex. July, 1998]. {STATE OTHER REQUESTED INFORMATION, ex. We would also be grateful if you could provide us with any other information you deem relevant to our decision to hire him.}
+
+I thank you in advance and look forward to your reply.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]

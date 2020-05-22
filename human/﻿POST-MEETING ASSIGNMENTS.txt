@@ -1,0 +1,22 @@
+﻿POST-MEETING ASSIGNMENTS
+
+To:		[IDENTIFY PERSONS/GROUP, ex. Arvind GK, Joel Johnson & Bill Williams]
+
+From:		[YOUR NAME]
+
+Date:		[DATE, ex. July 5, 1998]
+
+Subject:	[MEETING, ex. July 13 Meeting Recap]
+
+
+I’m sure you will agree that our meeting on [DATE, ex. Wednesday] went well.  I was pleased with our results.  If I’m not mistaken, I believed we agreed to the following assignments:
+
+PERSON				ASSIGNMENT			COMPLETION DATE
+[FILL OUT FORM, ex.
+Arvind GK				Prepare quarter one sales	July 25
+analysis
+Joel Johnson				Determine whether suppliers
+are willing to extend our terms	July 10
+Bill Williams				Forecast quarter two demand	July 25]
+
+Please inform me if I have made a mistake.  {MENTION NEXT MEETING, IF ALREADY SCHEDULED, ex. I look forward to meeting again on Friday.  See you then.}

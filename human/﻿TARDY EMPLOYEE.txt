@@ -1,0 +1,25 @@
+﻿TARDY EMPLOYEE
+
+[DATE, ex. Wednesday, June 11, 1998]
+
+
+[NAME AND ADDRESS, ex.
+Arvind GK
+1234 First Street
+Suite 567
+Anycity, Anystate  85245]
+
+Dear [NAME, ex. Arvind GK],
+
+We value your work with us as an employee, and we hope we can continue procuring your services on mutually-beneficial terms.  As we discussed on [DATE, ex. June 10, 1998], the company greatly values your time.  For this reason, late arrivals at the office blemish the quality of the service you provide.
+
+With city congestion and the difficulties of transportation, occasional lateness is indeed reasonable to expect.  Unfortunately, however, you have been [X] to [Y] minutes late, on each of [Z] occasions during the past month.  Regrettably, this is unacceptable.  If you are late more than once in the next month, I will be forced to review your employment with our firm.
+
+[FIRST NAME, ex. John], if there exists an extraordinary or exceptional circumstance which prevents you from arriving at the office on time, please contact me and we will discuss the situation accordingly.  Otherwise, I am confident that you will return to your past history of exceptional performance and that the matter will be immediately resolved.
+
+Please contact me at your earliest convenience.
+
+Sincerely,
+
+
+[YOUR NAME, ex. Arvind GK]
